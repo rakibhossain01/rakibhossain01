@@ -5,6 +5,9 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Rakib+Hossain..;Passionate+Programmer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....">
 </p>
+<div align="center">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</div>
 
 # 🖥️ Technical Skills: 
 <p align="left">
@@ -39,7 +42,6 @@
 </p>
 
 # 📊 GitHub Stats:
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossain01&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=rakibhossain01&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
