@@ -44,4 +44,3 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 ```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
